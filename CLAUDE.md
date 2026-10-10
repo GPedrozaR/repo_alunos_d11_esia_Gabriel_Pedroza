@@ -8,4 +8,5 @@
 - O argumento `--codigo caminho.py` seleciona a implementação; `--teste TestFilaClara.nome_do_teste` seleciona uma verificação. Resultados textuais observados ficam em `apoio/resultado-textual.md`.
 - Leia `caso/regras.md`: entradas válidas controladas, sem ampliar o escopo para validação externa ou implementação de autenticação.
 - Conferir qualquer proposta com o contrato do caso e registrar assistência, evidência, decisão e limite.
+- Nos modelos de resposta (`template-registro.md`), não alterar perguntas, rótulos nem enunciados; preencher somente os espaços em branco, mantendo o texto do rótulo exatamente como está no modelo.
 - Regra: não inventar, supor ou imaginar contratos, papéis, responsabilidades, processos, dados ou informações que não estejam descritos no projeto. Quando algo faltar, dizer que não está descrito e não preencher com suposições. Exemplos de dados fictícios são permitidos somente quando seguem os campos e valores descritos no caso.
