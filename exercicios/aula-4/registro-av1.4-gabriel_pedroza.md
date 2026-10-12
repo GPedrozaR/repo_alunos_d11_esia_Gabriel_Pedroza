@@ -10,7 +10,7 @@ Estudante: Gabriel Pedroza Rodrigues — Data: 11/10/2026
 
 **Teste entregue — o que verifica e o que não consegue distinguir:** Verifica a lista de IDs retornada, e não confere o estado, mas detecta a inclusão de TR-43.
 
-**Trecho do teste (entrada e comparação de IDs) que sustenta minha análise:** ___
+**Trecho do teste (entrada e comparação de IDs) que sustenta minha análise:** entrada do teste: os mesmos registros na ordem TR-42, TR-44, TR-41, TR-43; asserção: compara os IDs retornados a `["TR-42", "TR-44", "TR-41"]`.
 
 **Decisão (aceitar, aceitar com condições ou rejeitar) e motivo:** Rejeitar. Motivo: O candidato não cumpre R2 porque não cumpre a obrigação de preservar a ordem de entrada.
 
